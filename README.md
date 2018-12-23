@@ -2,7 +2,7 @@
 **Name**|**Summary**|**Link**
 :-----:|:-----:|:-----:
 Datacamp Case Studies |Solution for all python projects from Datacamp|[link](https://github.com/ishwarsawale/Datacamp_python_projects)
-facial key pointdetection|Training Facial Key point detection on Kaggle Dataset|[link](https://github.com/ishwarsawale/facial\_key\_point\_detection)
+facial key point detection|Training Facial Key point detection on Kaggle Dataset|[link](https://github.com/ishwarsawale/facial\_key\_point\_detection)
 neural style transfer app|Style Transfer app using CNN & Kiwi|[link](https://github.com/ishwarsawale/neural\_style\_transfer\_app)
 keras style transfer|Style Transfer using Keras|[link](https://github.com/ishwarsawale/keras\_style\_transfer)
 real-time-face-recognition-with-facenet|Face Recognition Using Facenet|[link](https://github.com/ishwarsawale/real-time-face-recognition-with-facenet)
